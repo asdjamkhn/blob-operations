@@ -1,0 +1,6 @@
+azure:
+  storage:
+    container:
+      name: quickstartblobs5
+    connection:
+      string: DefaultEndpointsProtocol=https;AccountName=shanimanistorage;AccountKey=mlwM2ufbtNTKGZBtNRfPq8KnWr3xcE00BRMPr/XfebB1cN1hdvobeAGV1Do8r4MQRE5oV4niNb8Y+AStyLxxbQ==;EndpointSuffix=core.windows.net
